@@ -1,2 +1,2 @@
 # testrepo
-creating test repo for demo use
+Used in January 10 2026 SPRING Semester.
